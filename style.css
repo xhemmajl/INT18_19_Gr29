@@ -20,16 +20,17 @@ header h1{
 	margin-right: 10px;
 }
 nav ul{
-	display: inline;
+	display: block;
 	padding: 0px;
-	float: left;
+	float: right;
+	margin-top:60px;
+	margin-right: -300px;
 }
 nav ul li{
-	display : inline-block;
 	list-style-type: none;
 	color: white;
 	float: left;
-	margin-left: 12px;
+	margin-left: 60px;
 }
 nav ul li a
 {
@@ -46,7 +47,30 @@ nav ul li a
 	height: 5px;
 }
 .klasa1:hover{
-	color: green;
+	color: #95A60A;
 	text-decoration: underline;
+}
+.search-form{
+	margin-top:5px;
+	float: right;
+	margin-right: 50px;
+	padding: 5px;
+}
+.searchform2{
+	padding: 6px;
+	border: 10px;
+}
+button{
+	float:right;
+	background: #95A60A;
+	color:white;
+	border:10px;
+	padding:5px;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+	position: relative;
+	margin-left:10px;
+	font-family: sans-serif;
+	font-size: 16px;
 }
 
