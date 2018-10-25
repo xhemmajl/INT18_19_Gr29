@@ -24,3 +24,29 @@ nav ul{
 	padding: 0px;
 	float: left;
 }
+nav ul li{
+	display : inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 12px;
+}
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#nav {
+	font-size: 15;
+}
+
+.divider {
+	background-color: black;
+	height: 5px;
+}
+.klasa1:hover{
+	color: green;
+	text-decoration: underline;
+}
+
