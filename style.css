@@ -95,4 +95,13 @@ button{
 	margin-left: -170px;
 
 }
+img.photoclass{
+	margin-top:50px;
+	margin-left: -170px;
+	display: block;
+	top: 0;
+	left: 0;
+	border: 4px double black;
+	border-radius: 0px;
+}
 
