@@ -104,4 +104,10 @@ img.photoclass{
 	border: 4px double black;
 	border-radius: 0px;
 }
-
+img.photoclass2{
+	display: block;
+	margin-left: 650px;
+	margin-top: -380px;
+	border: 4px double black;
+	border-radius: 0px;
+}
