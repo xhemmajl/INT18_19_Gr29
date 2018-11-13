@@ -139,6 +139,6 @@ button{
 	height: 350px;
 	width: 760px;
 	background-color: #333333;
-	left: 950px;
-	top: 40px;
+	margin-left: 950px;
+	margin-top: 40px;
 }
