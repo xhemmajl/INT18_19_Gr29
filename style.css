@@ -139,14 +139,10 @@ button{
 	height: 350px;
 	width: 760px;
 	background-color: #333333;
-<<<<<<< HEAD
 	margin-left: 950px;
 	margin-top: 40px;
 }
-=======
-	left: 950px;
-	top: 40px;
-}
+
 #nba1{
 	position:absolute;
 	left:1420px;
@@ -162,4 +158,4 @@ button{
 	font-size:15pt;
 	padding-left:10px;
 }
->>>>>>> 9989a7cf3143a05cc9283861111fcbeedf065d8d
+
