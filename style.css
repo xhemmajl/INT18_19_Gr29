@@ -92,46 +92,46 @@ button{
 }
 #photoclass{
 	display:block;
-	border:4px double black;
+	border:8px double black;
 	border-radius: 0px;
-	margin-top:80px;
-	width:435px;
-	height:240px;
+	margin-top:27px;
+	width:500px;
+	height:300px;
 }
 #photoclass1{
 	display: block;
-	margin-left:800px;
+	margin-left:950px;
 	margin-top:-550px;
 	border:5px double black;
 	border-radius: 0px;
-	width:180px;
-	height:180px;
+	width:150px;
+	height:150px;
 
 
 }
 #photoclass2{
 	display:block;
-	width:180px;
-	height:180px;
-	margin-left:1030px;
-	margin-top:-190px;
+	width:150px;
+	height:150px;
+	margin-left:1150px;
+	margin-top:-160px;
 	border:5px double black;
 }
 #photoclass3{
 	display:block;
-	width:180px;
-	height:180px;
-	margin-left:1260px;
-	margin-top:-190px;
+	width:150px;
+	height:150px;
+	margin-left:1350px;
+	margin-top:-160px;
 	border:5px double black;
 
 }
 #photoclass4{
 	display:block;
-	width:180px;
-	height:180px;
-	margin-left:1490px;
-	margin-top:-190px;
+	width:150px;
+	height:150px;
+	margin-left:1550px;
+	margin-top:-160px;
 	border:5px double black;
 }
 .katerkendshi
@@ -141,4 +141,19 @@ button{
 	background-color: #333333;
 	left: 950px;
 	top: 40px;
+}
+#nba1{
+	position:absolute;
+	left:1420px;
+	top:374px;
+	border:10px double;
+}
+#titulli {
+	color:white;
+	padding-left: 10px;
+}
+#ptitulli {
+	color:white;
+	font-size:15pt;
+	padding-left:10px;
 }
