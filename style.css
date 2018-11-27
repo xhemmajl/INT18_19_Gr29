@@ -158,3 +158,18 @@ button{
 	font-size:15pt;
 	padding-left:10px;
 }
+.klasa3{
+	position: absolute;
+	background-color: #E4DFC9;
+	padding-top: 10px;
+	padding-bottom: 80px;
+	padding-left: 50px;
+	height: 300px;
+	width: 100%;
+}
+.klasa4{
+	background-color: black;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	height: 300px;
+}
