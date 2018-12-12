@@ -223,3 +223,10 @@ footer{
 	display: inline-flex;
 
 }
+.footerposht {
+	width: 100%;
+	height:auto;
+	background-color: #333;
+	display:inline-flex;
+	
+}
