@@ -159,4 +159,55 @@ float:left;
 		margin: 40px 15px 15px 35px;
 	}
 	/*----footeri------*/
+	.RreshtiLajmev{
+	width: 100%;
+	height: auto;
+	display: inline-flex;
+	background-color: #E4DFC9; 
+}
+.imazhi{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+
+}
+.imazhi img{
+	float:left;
+	width: 400px;
+	height: 200px;
+
 	
+}
+.Lajmi1 h3{
+	border-bottom: 1px solid black;
+padding-bottom: 10px; 
+display:inline;
+
+}
+.Lajmi2 h3{
+	border-bottom: 1px solid black;
+padding-bottom: 10px; 
+display:inline;
+
+}
+.Lajmi3 h3{
+	border-bottom: 1px solid black;
+padding-bottom: 10px; 
+display:inline;
+
+}
+.Lajmi1{
+	width: 30%;
+	margin: 2%;
+
+}
+.Lajmi2{
+	width: 30%;
+	margin: 2%;
+	
+}
+.Lajmi3{
+	width: 30%;
+	margin: 2%;
+}
+
