@@ -107,3 +107,30 @@ float:left;
     text-align: center;
 
 }
+.anadjathtnalt{
+	height: 35%;
+}
+.anadjathtnalt1{
+	width: 70%;
+	margin: 2px 0px 2px 15px;
+	display: inline-flex;
+
+}
+
+.anadjathtnalt1 div{
+	width: 20%;
+	margin: 36px;
+
+}
+.anadjathtnalt1 div img{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black; 
+	padding: 3px;
+}
+
+.anadjathtposht{
+	height: 65%;
+	width: 100%;
+	display: inline-flex;
+}
