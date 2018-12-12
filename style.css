@@ -9,9 +9,11 @@ header
 	color: white;
 	padding: 8px 0px 6px 40px;
 	height: 90px;
+	width:100%;
 	top:0;
 	right:0px;
 	left:0px;
+	position:fixed;
 }
 header h1{
 	display:inline;
@@ -20,7 +22,7 @@ header h1{
 	font-size: 32px;
 	float: left;
 	margin-top: 0px;
-	margin-right: 10px;
+	margin-right: 20px;
 }
 nav ul{
 	display: block;
@@ -28,12 +30,13 @@ nav ul{
 	float: right;
 	margin-top:60px;
 	margin-right: -300px;
+	font-size:15pt;
 }
 nav ul li{
 	list-style-type: none;
 	color: white;
 	float: left;
-	margin-left: 60px;
+	margin-left: 160px;
 }
 nav ul li a
 {
@@ -52,10 +55,11 @@ nav ul li a
 .search-form{
 	margin-top:5px;
 	float: right;
-	margin-right: 50px;
+	margin-right: -170px;
 	padding: 5px;
 }
 .searchform2{
+	margin-left:20px;
 	padding: 6px;
 	border: 10px;
 }
