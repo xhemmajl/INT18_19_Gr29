@@ -230,3 +230,14 @@ footer{
 	display:inline-flex;
 	
 }
+.fpm {
+	width: 50%;
+	text-align: left;
+	}
+	.fpm h5{
+		padding-left: 10px;
+	}
+.fpd {
+	width: 50%;
+ 
+ }
