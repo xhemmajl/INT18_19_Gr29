@@ -241,3 +241,13 @@ footer{
 	width: 50%;
  
  }
+ .fpd p {
+ 		padding-right: 15px;
+ 		float: right;
+ 	}
+
+.fnm {
+	color:grey;
+	width: 35%;
+	height: auto;
+	padding-left: 2%;
