@@ -279,3 +279,24 @@ footer{
 	padding-left: 5%;
 	
 }
+.fnd1 {
+	color: green;
+	width: 33%;
+}
+.fnd2 {
+	color: green;
+	width: 33%;
+}
+.fnd3 {
+	color: green;
+	width: 33%;
+}
+.fnd1 h3 {
+	color:gray;
+}
+.fnd3 h3 {
+	color:gray;
+}
+.fnd2 h3 {
+	color:gray;
+}
