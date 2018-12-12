@@ -264,8 +264,18 @@ footer{
 	font-size: 16px;
 }
 .GO-form{
-	margin-right:110px;
+	margin-right:110px;	
+}
+.GOform2{
+	padding: 6px;
+	border: 15px;
+	padding-right: 100px;
+}
 
-
+.fnd{
+	width: 40%;
+	display: inline-flex;
+	height: auto;
+	padding-left: 5%;
 	
 }
