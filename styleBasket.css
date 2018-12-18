@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Guntur:300,400');
+body{
+	margin: 0;
+	width:100%;
+
+}
+header
+{
+	background: black;
+	color: white;
+	padding: 8px 0px 6px 40px;
+	height: 90px;
+	width:100%;
+	top:0;
+	right:0px;
+	left: 0px;
+	position:fixed;
+
+}
+header h1{
+	display:inline;
+	font-family:'Hind Guntur',sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 20px;
+
+}
+nav ul{
+	display: block;
+	padding: 0px;
+	float: right;
+	margin-top:60px;
+	margin-right: -300px;
+	font-size: 15pt;
+}
+nav ul li{
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 160px;
+}
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#nav {
+	font-size: 15;
+}
+
+
+.klasa1:hover{
+	color: #95A60A;
+	text-decoration: underline;
+}
+.search-form{
+	margin-top:5px;
+	float: right;
+	margin-right: -170px;
+	padding: 5px;
+}
+.searchform2{
+	margin-left:20px;
+	padding: 6px;
+	border: 10px;
+}
+button{
+	float:right;
+	background: #95A60A;
+	color:white;
+	border:10px;
+	padding:5px;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+	position: relative;
+	margin-left:10px;
+	font-family: sans-serif;
+	font-size: 16px;
+}
