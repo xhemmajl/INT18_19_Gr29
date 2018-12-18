@@ -125,3 +125,26 @@ body{
 	transition: filter 0.5se ease;
 	filter: grayscale(100%);
 }
+header
+{
+	background: black;
+	color: white;
+	padding-left:1%;
+	height: 1000px;
+	width:100%;
+	top:0;
+	right:0px;
+	left: 0px;
+	position:absolute;
+
+}
+header h1{
+	display:inline;
+	font-family:'Hind Guntur',sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 40px;
+
+}
