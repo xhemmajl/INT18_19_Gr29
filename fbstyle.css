@@ -31,7 +31,7 @@ body{
 	color:white;
 	overflow:hidden;
 	transition: width 0.5s ease;
-	margin-top:125px;
+	
 
 }
 .t1-item:before, .t1-item:after{
