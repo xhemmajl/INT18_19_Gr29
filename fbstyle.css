@@ -131,12 +131,13 @@ header
 	background: black;
 	color: white;
 	padding-left:1%;
-	height: 1000px;
-	width:100%;
+	height: auto;
+	width:99%;
 	top:0;
 	right:0px;
 	left: 0px;
 	position:absolute;
+	z-index:1000;
 
 }
 header h1{
@@ -181,7 +182,7 @@ nav ul li a
 .search-form{
 	margin-top:5px;
 	float: right;
-	margin-right: 50px;
+	margin-right: -200px;
 	padding: 5px;
 }
 .searchform2{
