@@ -134,3 +134,9 @@ button{
 	transform: translate3d(0,0,0) translateY(0);
 	transition:opacity 1s ease, transform 1s ease 0.25s;
 }
+.t1-item:hover .t1-content{
+	opacity:1;
+	transform:translateY(0);
+	transition:all 0.75s ease 0.5s;
+
+}
