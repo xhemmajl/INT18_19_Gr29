@@ -140,3 +140,6 @@ button{
 	transition:all 0.75s ease 0.5s;
 
 }
+.t1-item:hover .t1-bg{
+	filter: grayscale(0);
+}
