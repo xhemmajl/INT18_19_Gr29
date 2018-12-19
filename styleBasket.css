@@ -143,3 +143,12 @@ button{
 .t1-item:hover .t1-bg{
 	filter: grayscale(0);
 }
+.t1-content{
+	transform: translate3d(0,0,0) translateY(25px);
+	position:relative;
+	z-index:1;
+	text-align:center;
+	margin:0.1618em;
+	top:55%;
+	opacity:0;
+}
