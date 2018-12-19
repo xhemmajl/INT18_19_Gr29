@@ -100,3 +100,12 @@ button{
 	overflow:hidden;
 	transition: width 0.5s ease;
 }
+.t1-item:before, .t1-item:after{
+	transform: translate3d(0,0,0);
+	content: '';
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+}
