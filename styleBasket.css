@@ -129,3 +129,8 @@ button{
 .t1-item:hover:after{
 	opacity:0;
 }
+.t1-item:hover:before{
+	opacity:1;
+	transform: translate3d(0,0,0) translateY(0);
+	transition:opacity 1s ease, transform 1s ease 0.25s;
+}
