@@ -84,7 +84,19 @@ button{
 	display:flex;
 	background-color:#84961A;
 }
+
 #timeline:hover .t1-item{
 	width:23.3333%;
 
+}
+
+.t1-item{
+	transform:translate3d(0,0,0);
+	position:relative;
+	width:25%;
+	height:50vh;
+	min-height:600px;
+	color:white;
+	overflow:hidden;
+	transition: width 0.5s ease;
 }
