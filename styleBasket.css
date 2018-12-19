@@ -80,3 +80,11 @@ button{
 	font-family: sans-serif;
 	font-size: 16px;
 }
+#timeline{
+	display:flex;
+	background-color:#84961A;
+}
+#timeline:hover .t1-item{
+	width:23.3333%;
+
+}
