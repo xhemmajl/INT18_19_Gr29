@@ -18,3 +18,33 @@ header
 	left: 0px;
 	position:absolute;
 	z-index:1000;
+}
+header h1{
+	display:inline;
+	font-family:'Hind Guntur',sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 40px;
+
+}
+nav ul{
+	display: block;
+	padding: 0px;
+	float: right;
+	margin-top:60px;
+	margin-right: -285px;
+	font-size: 15pt;
+}
+nav ul li{
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 160px;
+}
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+}
