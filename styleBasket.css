@@ -186,3 +186,11 @@ button{
 	transition: filter 0.5se ease;
 	filter: grayscale(100%);
 }
+.divikryesor{
+	width:100%;
+	height: auto;
+	background-color: #94A60A;
+	color: black;
+	display: inline-flex;
+
+}
