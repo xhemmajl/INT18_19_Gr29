@@ -221,3 +221,32 @@ button{
 	cursor:pointer;
 
 }
+.divik2 p {
+	color: #221301;
+	font-family: sans-serif;
+	font-size: 82%;
+}
+.dk21{
+	width: 100%;
+	height: auto;
+	padding:5px;
+
+}
+.dk21 img {
+	width: 150px; 
+	height: 150px;
+	padding-left: 30px;
+	cursor:pointer;
+}
+.dk22{
+	width: 100%;
+	height: auto;
+	padding: 5px;
+	background-color: #84961A;
+}
+.dk22 img {
+	width: 150px; 
+	height: 150px;
+	padding-left: 30px;
+	cursor:pointer;
+}
