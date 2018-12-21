@@ -250,3 +250,16 @@ button{
 	padding-left: 30px;
 	cursor:pointer;
 }
+#more{
+	display: none;
+}
+.dk21 button{
+	background-color: black;
+	border: none;
+	outline:none;
+	color: white;
+	padding-right: 20px;
+	margin-right: 35px;
+	border-radius: 5px;
+	font-size: 13px;
+}
