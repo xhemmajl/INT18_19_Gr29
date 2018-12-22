@@ -263,3 +263,17 @@ button{
 	border-radius: 5px;
 	font-size: 13px;
 }
+.dk31{
+	padding: 30px;
+}
+.dk31 button{
+	background-color: black;
+	border: none;
+	outline:none;
+	color: white;
+	padding: 8px;
+	border-radius: 0px;
+	font-size: 13px;
+	margin-right: 170px;
+	margin-top: 5px;
+}
