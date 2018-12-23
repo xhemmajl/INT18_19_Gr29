@@ -305,3 +305,6 @@ button{
 	margin-right: 170px;
 	margin-top: 5px;
 }
+#more{
+	display: none;
+}
