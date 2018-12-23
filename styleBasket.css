@@ -263,6 +263,29 @@ button{
 	border-radius: 5px;
 	font-size: 13px;
 }
+.dk23{
+	width: 100%;
+	height: auto;
+	padding: 15px;
+}
+.dk23 img {
+	width: 150px; 
+	height: 150px;
+	padding-left: 30px;
+	cursor:pointer;
+}
+.dk24{
+	width: 100%;
+	height: auto;
+	padding: 15px;
+	background-color: #84961A;
+}
+.dk24 img {
+	width: 150px; 
+	height: 150px;
+	padding-left: 30px;
+	cursor:pointer;
+}
 .dk31{
 	padding: 30px;
 }
