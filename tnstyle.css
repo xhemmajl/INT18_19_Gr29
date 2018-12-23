@@ -166,3 +166,81 @@ h1 a{
 	font-weight:normal;
 
 }
+.t1-year{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translateX(-50%) translateY(-50%);
+	z-index: 1;
+	border-top: 1px solid white;
+	border-bottom:1px solid white;
+}
+.t1-year p{
+	font-family:tahoma;
+	font-size: 1.62rem;
+	line-height:0;
+}
+.t1-bg{
+	transform: translate3d(0,0,0);
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background-size:cover;
+	background-position:center center;
+	transition: filter 0.5se ease;
+	filter: grayscale(100%);
+}
+
+
+.divi2
+{
+
+	
+	width: 100%;
+	height: auto;
+	background-color: white;
+	color: white;
+	display: inline-flex;
+
+}
+
+.divi21
+{
+
+	width: 25%;
+	height: auto;
+	margin-left: 50px;
+	
+	
+}
+.divi21 img
+{
+	cursor: pointer;
+}
+.divi22
+{
+	width: 25%;
+	height: auto;
+}
+.divi22 img
+{
+	cursor: pointer;
+}
+.divi23
+{
+	width: 25%;
+	height: auto;
+}
+.divi23 img
+{
+	cursor: pointer;
+}
+.divi24
+{
+	width: 25%;
+	height: auto;
+	
+}
+
