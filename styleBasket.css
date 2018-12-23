@@ -320,5 +320,10 @@ button{
 	height: 100%;
 	text-align: center;
 	cursor:pointer;
-
+}
+.imazhi img{
+	float:left;
+	width: 400px;
+	height: 200px;
+	cursor:pointer;
 }
