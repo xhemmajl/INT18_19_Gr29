@@ -308,3 +308,10 @@ button{
 #more{
 	display: none;
 }
+
+.RreshtiLajmev{
+	width: 100%;
+	height: auto;
+	display: inline-flex;
+	background-color: #E4DFC9; 
+}
