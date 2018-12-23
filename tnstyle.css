@@ -127,3 +127,42 @@ h1 a{
 	transition: opacity 0.5s ease,
 	transform 0.5s ease;
 }
+.t1-item:hover{
+	width:30% !important;
+
+}
+.t1-item:hover:after{
+	opacity:0;
+}
+.t1-item:hover:before{
+	opacity:1;
+	transform: translate3d(0,0,0) translateY(0);
+	transition:opacity 1s ease, transform 1s ease 0.25s;
+}
+.t1-item:hover .t1-content{
+	opacity:1;
+	transform:translateY(0);
+	transition:all 0.75s ease 0.5s;
+
+}
+.t1-item:hover .t1-bg{
+	filter: grayscale(0);
+}
+.t1-content{
+	transform: translate3d(0,0,0) translateY(25px);
+	position:relative;
+	z-index:1;
+	text-align:center;
+	margin:0.1618em;
+	top:55%;
+	opacity:0;
+
+}
+.t1-content h1{
+	font-family: tahoma;
+	text-transform: uppercase;
+	color:#1779cf;
+	font-size:1.44rem;
+	font-weight:normal;
+
+}
