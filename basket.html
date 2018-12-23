@@ -111,9 +111,19 @@
 
 				Ndërkaq, automatikisht pas humbjes së Golden State është Denver Nuggets që ka kaluar në vendni e parë, me të gjitha skuadrat drei në vendni e parafundit në Perëndim që janë afër njëra-tjetrës për pak ndeshje duke bërë që të gjitha skuadrat pos Phoenixit të kenë gjasa për playoff.<span>
 				</p>
+
+				<button type="button" id="read" onclick="read()">Lexo me shume</button>
+				<script type="text/javascript">
 					var i=0;
 					function read(){
 						if(!i){
+							document.getElementById("more").style.display="inline";
+							document.getElementById("dots").style.display="none";
+							document.getElementById("read").innerHTML="Lexo me pake";
+							i=1;
+						}
+						else{
+							document.getElementById("more").style.display="none";
 							document.getElementById("dots").style.display="inline";
 							document.getElementById("read").innerHTML="Lexo me shume";
 							i=0;
