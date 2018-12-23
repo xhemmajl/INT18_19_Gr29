@@ -315,3 +315,10 @@ button{
 	display: inline-flex;
 	background-color: #E4DFC9; 
 }
+.imazhi{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	cursor:pointer;
+
+}
