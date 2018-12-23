@@ -327,3 +327,10 @@ button{
 	height: 200px;
 	cursor:pointer;
 }
+.Lajmi1 h3{
+	border-bottom: 1px solid black;
+	padding-bottom: 10px; 
+	display:inline;
+	cursor:pointer;
+
+}
