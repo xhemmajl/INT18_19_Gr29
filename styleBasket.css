@@ -420,3 +420,14 @@ footer{
 	border: 15px;
 	padding-right: 100px;
 }
+.fnd{
+	width: 40%;
+	display: inline-flex;
+	height: auto;
+	padding-left: 5%;
+	
+}
+.fnd1 {
+	color: green;
+	width: 33%;
+}
