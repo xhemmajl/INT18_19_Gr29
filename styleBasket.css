@@ -401,3 +401,22 @@ footer{
 	padding-left: 2%;
 	
 }
+ button{
+ 	margin-right: 236px;
+	background: #95A60A;
+	color:white;
+	border:7px;
+	padding:5px;
+ 	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 16px;
+	}
+.GO-form{
+	margin-right:110px;
+}
+.GOform2{
+	padding: 6px;
+	border: 15px;
+	padding-right: 100px;
+}
