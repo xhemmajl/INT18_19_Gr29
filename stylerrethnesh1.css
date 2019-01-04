@@ -92,3 +92,16 @@ background-position: center;
 	height: auto;
 	margin-left: 180px;
 }
+.main {
+  margin: 100px auto;
+  text-align: center;
+}
+button {
+  padding: 20px;
+  background: transparent;
+  text-shadow: 1px 1px 1px #202020;
+  font-family: "Lato", sans-serif;
+  font-size: 18pt;
+  border: 1px solid aqua;
+  color: aqua;
+}
