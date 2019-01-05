@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Hind+Guntur:300,400');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display" ');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body{
 	margin: 0;
+	font-family: 'Roboto', sans-serif; 
 
 }
 h1 a{
@@ -21,7 +25,7 @@ header
 }
 header h1{
 	display:inline;
-	font-family:'Hind Guntur',sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-size: 32px;
 	float: left;
