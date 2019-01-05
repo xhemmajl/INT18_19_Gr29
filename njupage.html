@@ -26,6 +26,35 @@
 </header>
 
 <body>
+
+	<script type="text/javascript">
+						
+			function changeBackground() {
+  var  hr = (new Date()).getHours(),
+    body = document.body,
+    bstyle = body.style;    
+  if (hr > 6) {
+    bstyle.backgroundColor = "#d4d7d8";
+    bstyle.color = "black";
+  } else if (hr > 17) {
+    bstyle.backgroundColor = "#032027";
+    bstyle.color = "white";
+  } else {
+    bstyle.backgroundColor = "#002020";
+    bstyle.color = "white";
+  } 
+}
+
+setInterval(changeBackground,  1000 * 60);
+changeBackground();
+	</script>
+
+
+
+
+
+
+
 	<div class="divi1">
 		<div class="divi11">
 			
