@@ -322,3 +322,22 @@ padding-right:100px;
 font-size:21px;
 
 }
+
+.fnd2 h3{
+	border-bottom: 1px solid grey;
+padding-bottom: 10px; 
+display:inline;
+color:grey;
+padding-right:70px;
+font-size:21px;
+
+}
+.fnd3 h3{
+	border-bottom: 1px solid grey;
+padding-bottom: 10px; 
+display:inline;
+color:grey;
+padding-right:100px;
+font-size:21px;
+
+}
