@@ -161,7 +161,10 @@ float:left;
 		width: 200px;
 		height: 200px;
 		margin: 40px 15px 15px 35px;
+		border: 1px solid black;
+		padding:3px;
 	}
+
 	/*----footeri------*/
 	.RreshtiLajmev{
 	width: 100%;
