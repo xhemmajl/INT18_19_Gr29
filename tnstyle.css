@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Guntur:300,400');
+
 body{
 	font-family:tahoma;
 	font-size:15px;
@@ -10,14 +12,15 @@ header
 {
 	background: black;
 	color: white;
-	padding-left:1%;
+	padding: 8px 0px 6px 40px;
 	height: auto;
-	width:99%;
+	width:100%;
 	top:0;
 	right:0px;
 	left: 0px;
-	position:absolute;
+	position:fixed;
 	z-index:1000;
+
 }
 header h1{
 	display:inline;
@@ -26,7 +29,7 @@ header h1{
 	font-size: 32px;
 	float: left;
 	margin-top: 0px;
-	margin-right: 40px;
+	margin-right: 20px;
 
 }
 nav ul{
@@ -34,22 +37,23 @@ nav ul{
 	padding: 0px;
 	float: right;
 	margin-top:60px;
-	margin-right: -285px;
+	margin-right: -270px;
 	font-size: 15pt;
 }
 nav ul li{
 	list-style-type: none;
 	color: white;
 	float: left;
-	margin-left: 160px;
+	margin-left: 170px;
 }
 nav ul li a
 {
 	color: white;
 	text-decoration: none;
 }
+
 #nav {
-	font-size: 19px;
+	font-size: 15;
 }
 
 
@@ -60,7 +64,7 @@ nav ul li a
 .search-form{
 	margin-top:5px;
 	float: right;
-	margin-right: 50px;
+	margin-right:-170px;
 	padding: 5px;
 }
 .searchform2{
@@ -71,7 +75,7 @@ nav ul li a
 button{
 	float:right;
 	background: #95A60A;
-		color:white;
+	color:white;
 	border:10px;
 	padding:5px;
 	border-radius: 0 5px 5px 0;
