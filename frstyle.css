@@ -147,3 +147,36 @@ h1 a{
 	margin:-20px;
 	padding-bottom:20px;
 }
+.Kryesore img{
+	width:550px;
+	height:300px;
+	transform:translate(0%,4%);
+
+}
+.post2box img {
+	transform:translate(0%,10%);
+}
+.post4box{
+    width: 600px;
+    height: 700px;
+    background: rgba(13,13,13,0.8);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-150%,165%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+}
+.post5box{
+    width: 600px;
+    height: 700px;
+    background: rgba(13,13,13,0.8);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(30%,165%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+}
