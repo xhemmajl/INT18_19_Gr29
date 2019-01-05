@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Hind+Guntur:300,400');
 
 body{
-	font-family:tahoma;
-	font-size:15px;
-	line-height:1.75;
+	
 	padding:0;
 	margin:0;
 
@@ -90,6 +88,9 @@ h1 a{
 	text-decoration: none;
 }
 #timeline{
+	font-family:tahoma;
+	font-size:15px;
+	line-height:1.75;
 	display:flex;
 	background-color:#031625;
 }
