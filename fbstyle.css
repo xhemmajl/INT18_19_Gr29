@@ -280,6 +280,7 @@ footer{
 	width: 100%;
 	height: 90%;
 	display: inline-flex;
+	padding-top:20px;
 
 }
 .footerposht {
@@ -324,7 +325,7 @@ footer{
 	font-size: 16px;
 }
 .GO-form{
-	margin-right:97px;
+	margin-right:47px;
 	
 
 
@@ -338,22 +339,24 @@ footer{
 }
 
 .fnd{
-	width: 40%;
+	width: 60%;
 	display: inline-flex;
 	height: auto;
-	padding-left: 5%;
+	padding-left: 10%;
 	
 }
 .fnd1 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
+	padding-right:100px;
 }
 .fnd2 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
+	padding-right:100px;
 }
 .fnd3 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
 }
 .fnd1 h3 {
