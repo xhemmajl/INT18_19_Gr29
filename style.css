@@ -268,7 +268,7 @@ footer{
 	font-size: 16px;
 }
 .GO-form{
-	margin-right:110px;	
+	margin-right:47px;	
 }
 .GOform2{
 	padding: 6px;
@@ -277,23 +277,26 @@ footer{
 }
 
 .fnd{
-	width: 40%;
+	width: 60%;
 	display: inline-flex;
 	height: auto;
-	padding-left: 5%;
+	padding-left: 10%;
 	
 }
 .fnd1 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
+	padding-right:100px;
 }
 .fnd2 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
+	padding-right:100px;
 }
 .fnd3 {
-	color: green;
+	color: #95A60A;
 	width: 33%;
+	
 }
 .fnd1 h3 {
 	color:gray;
@@ -303,4 +306,19 @@ footer{
 }
 .fnd2 h3 {
 	color:gray;
+}
+.fnm h1{
+	border-bottom: 1px solid grey;
+padding-bottom: 10px; 
+display:inline;
+color:grey;
+}
+.fnd1 h3{
+	border-bottom: 1px solid grey;
+padding-bottom: 10px; 
+display:inline;
+color:grey;
+padding-right:100px;
+font-size:21px;
+
 }
