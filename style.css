@@ -232,7 +232,7 @@ footer{
 	height:auto;
 	background-color: #333;
 	display:inline-flex;
-	
+	padding-top:20px;
 }
 .fpm {
 	width: 50%;
